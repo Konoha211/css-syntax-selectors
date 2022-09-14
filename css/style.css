@@ -1,4 +1,5 @@
 body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   color: brown;
 }
 
@@ -12,6 +13,13 @@ h1 {
 
 .quote.narrator {
   color: black;
+  font-size: 32px;
+}
+
+.celebration {
+  color: yellow;
+  background-color: pink;
+  font-size: 32px;
 }
 
 #intro p {
